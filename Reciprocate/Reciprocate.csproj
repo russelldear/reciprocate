@@ -1,7 +1,7 @@
 <Project Sdk="Microsoft.NET.Sdk">
 
   <PropertyGroup>
-    <TargetFramework>netcoreapp1.1</TargetFramework>
+    <TargetFramework>netcoreapp1.0</TargetFramework>
     <AssemblyName>Reciprocate</AssemblyName>
     <PackageId>Reciprocate</PackageId>
     <RuntimeFrameworkVersion>1.0.4</RuntimeFrameworkVersion>
